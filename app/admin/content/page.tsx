@@ -1,0 +1,11 @@
+import React from 'react';
+
+const ContentPage = () => {
+  return (
+    <div>
+      <h1 className="text-3xl font-bold">Content</h1>
+    </div>
+  );
+};
+
+export default ContentPage;
